@@ -81,7 +81,7 @@ This project is fully documented, covering the challenges faced, methodologies a
 
 ## **Results Summary**
 
-| **Device Type** | **Best Model**            | **R² Score** |
+| **Device Type** | **Best Model**            | **R² Scores** |
 |------------------|---------------------------|--------------|
 | Laptops          | CatBoost Regressor       | **0.87**     |
 | Smartphones      | XGBoost Regressor        | **0.90**     |
